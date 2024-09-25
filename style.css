@@ -1,0 +1,40 @@
+.countainer{
+   background-color: rgb(217, 217, 217);
+    height: 1600px;
+}
+.imagem{
+    
+    width: 600px;
+    height: 400px;
+    
+  
+}
+
+.divCard{
+    background-color: rgb(64, 118, 118);
+    margin-left: 500px;
+    width: 600px;
+    height: 800px;
+   
+}
+
+h1{
+    color: antiquewhite;
+    padding-left: 100px;
+    font-style: oblique;
+    
+}
+
+.texto{
+    font-style: oblique;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.botão{
+    margin-left: 240px;
+    width: 100px;
+    height: 40px;
+}
+
